@@ -1,0 +1,4 @@
+PORT=5000
+MONGO_URI=mongodb+srv://chatapp:chatapp123@cluster0.6rlnbno.mongodb.net/mla_dashboard
+
+JWT_SECRET=supersecretkey123
